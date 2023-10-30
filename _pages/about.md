@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. 
 
-Currently, I am an intern at ByteDance AI Lab, where I contribute to the cutting-edge research conducted by the Responsible AI (RAI) team. My primary focus within this team is on Reinforcement Learning with Human Feedback (RLHF), a fascinating area that merges the power of machine learning with human expertise.
+Currently, I have the privilege of interning at **ByteDance AI Lab**, where I actively contribute to the cutting-edge research conducted by the **Responsible AI** (RAI) team. Under the guidance of my supervisors, **Liu Yang** and **Xiaoying Zhang**, I have the opportunity to delve into the captivating realm of Reinforcement Learning with Human Feedback (RLHF). This field seamlessly combines the power of machine learning with human expertise, making it an incredibly exciting area of study. My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
 
 In addition to my internship, I am also applying for a Ph.D. in Computer Science starting in the fall of 2024. 
 
