@@ -14,7 +14,7 @@ Education
 * B.S. in Huazhong University of Science and Technology, Computer Science and Technology, 2016-2020
 * M.S. in Fudan University, NLP Lab, 2021-2024
 
-experience
+Experience
 ======
 * 2023.8 - present: Research Internship
   * ByteDance AI lab, Responsible AI team
