@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "In the middle of difficulty lies opportunity. - Albert Einstein"
+title: "_'In the middle of difficulty lies opportunity.' --Albert Einstein_"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
