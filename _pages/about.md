@@ -29,8 +29,13 @@ My research interests lie in the field of Natural Language Processing (NLP), wit
 
 ## Publications
 * Mitigating Length Bias in Reinforcement Learning from Human Feedback (EMNLP 2023 Findings)
-_**Wei Shen** &#9733;, Rui Zheng* &#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
+
+_**Wei Shen**&#9733;, Rui Zheng*&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
+
 * Improving Generalization of Alignment with Human Preferences through Group Invariant Learning (Preprint)
-_Rui Zheng*, **Wei Shen**, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
+
+_Rui Zheng*&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
+
 * Delve into PPO: Implementation Matters for Stable RLHF Training (Instruction Workshop @ NeurIPS 2023)
-_Rui Zheng*, Shihan Dou*, Songyang Gao*, **Wei Shen**, Binghai Wang, Yan Liu, Senjie Jin, Qin Liu, Yuhao, Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Cheng Chang, Zhangyue Yin, Rongxiang, Weng, Wensen Cheng, Yuan Hua, Haoran Huang, Tianxiang Sun, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang_
+
+_Rui Zheng&#9733;, Shihan Dou&#9733;, Songyang Gao&#9733;, **Wei Shen**, Binghai Wang, Yan Liu, Senjie Jin, Qin Liu, Yuhao, Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Cheng Chang, Zhangyue Yin, Rongxiang, Weng, Wensen Cheng, Yuan Hua, Haoran Huang, Tianxiang Sun, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang_
