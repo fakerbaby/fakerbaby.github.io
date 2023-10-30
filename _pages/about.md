@@ -30,7 +30,7 @@ My research interests lie in the field of Natural Language Processing (NLP), wit
 ## Publications
 ### Mitigating Length Bias in Reinforcement Learning from Human Feedback (EMNLP 2023 Findings)
 
-_**Wei Shen**&#9733;, Rui Zheng*&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
+_**Wei Shen**&#9733;, Rui Zheng&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
 
 ### Improving Generalization of Alignment with Human Preferences through Group Invariant Learning (Preprint)
 
