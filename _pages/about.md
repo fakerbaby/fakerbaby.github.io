@@ -1,3 +1,9 @@
+---
+title: "About me"
+layout: archive
+permalink: /about me/
+---
+
 ## About me
 
 Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. Currently, I am an intern at ByteDance AI Lab, where I contribute to the cutting-edge research conducted by the Responsible AI (RAI) team. My primary focus within this team is on Reinforcement Learning with Human Feedback (RLHF), a fascinating area that merges the power of machine learning with human expertise.
