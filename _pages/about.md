@@ -10,18 +10,19 @@ redirect_from:
 
 ## About me
 
-Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. Currently, I am an intern at ByteDance AI Lab, where I contribute to the cutting-edge research conducted by the Responsible AI (RAI) team. My primary focus within this team is on Reinforcement Learning with Human Feedback (RLHF), a fascinating area that merges the power of machine learning with human expertise.
+Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. 
+
+Currently, I am an intern at ByteDance AI Lab, where I contribute to the cutting-edge research conducted by the Responsible AI (RAI) team. My primary focus within this team is on Reinforcement Learning with Human Feedback (RLHF), a fascinating area that merges the power of machine learning with human expertise.
 
 In addition to my internship, I am also pursuing a Ph.D. in Computer Science starting in the fall of 2024. 
 
-My research interests lie in the field of Natural Language Processing (NLP), with a particular emphasis on LLM alignment, reward modeling, and LLM agents. I am passionate about exploring how language models can be leveraged to enhance various aspects of AI and contribute to the development of more advanced and responsible AI systems.
+I am passionate about exploring how language models can be leveraged to enhance various aspects of AI and contribute to the development of more advanced and responsible AI systems.
 
 
 
 ## Research Interests
-* LLM Alignment
-* Reward Modeling
-* LLM agent
+My research interests lie in the field of Natural Language Processing (NLP), with a particular emphasis on LLM alignment, reward modeling, and LLM agents. 
+
 
 ## Projects
 [MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/)
