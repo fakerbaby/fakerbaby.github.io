@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. 
 
-I completed my undergraduate studies at **Huazhong University of Science and Technology** (HUST) in 2020, where I obtained my bachelor's degree. Currently, I am a third-year graduate student at **Fudan University**, affiliated with the NLP Lab. I am also applying for a Ph.D. in Computer Science starting in the fall of 2024. 
+I completed my undergraduate studies at **Huazhong University of Science and Technology** in 2020, where I obtained my bachelor's degree. Currently, I am a third-year graduate student at **Fudan University**, affiliated with the NLP Lab. I am also applying for a Ph.D. in Computer Science starting in the fall of 2024. 
 
 Currently, I have the privilege of interning at **ByteDance AI Lab**, where I actively contribute to the cutting-edge research conducted by the **Responsible AI** (RAI) team. Under the guidance of my supervisors, **Liu Yang** and **Xiaoying Zhang**. I have the opportunity to delve into the captivating realm of Reinforcement Learning from Human Feedback (RLHF). My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
 
