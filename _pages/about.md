@@ -12,9 +12,9 @@ redirect_from:
 
 Welcome to my academic page! I am excited to share with you my journey and research endeavors in the field of artificial intelligence. 
 
-Currently, I have the privilege of interning at **ByteDance AI Lab**, where I actively contribute to the cutting-edge research conducted by the **Responsible AI** (RAI) team. Under the guidance of my supervisors, **Liu Yang** and **Xiaoying Zhang**, I have the opportunity to delve into the captivating realm of Reinforcement Learning with Human Feedback (RLHF). This field seamlessly combines the power of machine learning with human expertise, making it an incredibly exciting area of study. My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
+I completed my undergraduate studies at **Huazhong University of Science and Technology** (HUST) in 2020, where I obtained my bachelor's degree. Currently, I am a third-year graduate student at **Fudan University**, affiliated with the NLP Lab. I am also applying for a Ph.D. in Computer Science starting in the fall of 2024. 
 
-In addition to my internship, I am also applying for a Ph.D. in Computer Science starting in the fall of 2024. 
+Currently, I have the privilege of interning at **ByteDance AI Lab**, where I actively contribute to the cutting-edge research conducted by the **Responsible AI** (RAI) team. Under the guidance of my supervisors, **Liu Yang** and **Xiaoying Zhang**. I have the opportunity to delve into the captivating realm of Reinforcement Learning from Human Feedback (RLHF). My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
 
 I am passionate about exploring how language models can be leveraged to enhance various aspects of AI and contribute to the development of more advanced and responsible AI systems.
 
@@ -25,7 +25,8 @@ My research interests lie in the field of Natural Language Processing (NLP), wit
 
 
 ## Projects
-[MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/)
+
+[MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/) (An open-source RLHF project aims to help LLMs to achieve alignment easily)
 
 
 ## Publications
