@@ -24,6 +24,7 @@ I am passionate about exploring how language models can be leveraged to enhance 
 My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling. Additionally, I am eager to explore the realm of LLM agents and contribute to advancements in that area.
 
 ## Projects
+<img src="../images/moss_logo.png" width="200">
 
 [MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/) (An open-source RLHF project aims to help LLMs to achieve alignment easily)
 
