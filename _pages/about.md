@@ -14,7 +14,7 @@ Welcome to my academic page! I am excited to share with you my journey and resea
 
 I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. Currently, I am a third-year graduate student at Fudan University, working in the [NLP Lab](https://nlp.fudan.edu.cn/nlpen/main.htm) under the guidance of [Xuanjing Huang](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en) as my advisors, with [Qi Zhang](http://qizhang.info/) as my co-advisor.
 
-Currently, I have the privilege of interning at ByteDance AI Lab, where I actively contribute to the cutting-edge research conducted by the Responsible AI(RAI) team. Under the guidance of my supervisors, [Liu Yang](http://www.yliuu.com/) and Xiaoying Zhang. I have the opportunity to delve into the captivating realm of Reinforcement Learning from Human Feedback (RLHF). My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
+Currently, I have the privilege of interning at ByteDance AI Lab, where I actively contribute to the cutting-edge research conducted by the Responsible AI team. Under the guidance of my supervisors, [Liu Yang](http://www.yliuu.com/) and Xiaoying Zhang. I have the opportunity to delve into the captivating realm of Reinforcement Learning from Human Feedback (RLHF). My time at ByteDance AI Lab has been nothing short of extraordinary, providing me with invaluable experiences and opportunities for growth.
 
 I am passionate about exploring how language models can be leveraged to enhance various aspects of AI and contribute to the development of more advanced and responsible AI systems. And I am also applying for a Ph.D. in Computer Science starting in the fall of 2024!
 
