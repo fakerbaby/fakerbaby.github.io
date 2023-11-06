@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing-CN"
-title                    : "Eric Wei Shen"
+title                    : "He/him/his"
 title_separator          : "-"
 name                     : &name "Eric Wei Shen"
 # description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Shen"
+  name             : "Eric Wei Shen"
   avatar           : "IMG_1596.jpg"
   bio              : "Fudan University Graduate student"
   location         : "Shanghai"
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "https://github.com/fakerbaby"
+  github           : "fakerbaby"
   # google_plus      :
   # keybase          :
   # instagram        :
