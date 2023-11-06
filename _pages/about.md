@@ -18,9 +18,27 @@ I am currently interning at ByteDance AI Lab, where I contribute to cutting-edge
 
 I am passionate about leveraging language models to enhance various aspects of AI and contribute to the development of advanced and responsible AI systems. I am also applying for a Ph.D. in Computer Science, starting in the fall of 2024!
 
-
 ## Research Interests
 My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling. Additionally, I am eager to explore the realm of LLM agents and contribute to advancements in that area.
+
+## Education
+
+* High School in Changjun high school, 2013-2016, Changsha
+* B.Eng. in Huazhong University of Science and Technology, Computer Science and Technology, 2016-2020, Wuhan
+* M.Eng. in Fudan University, NLP Lab, 2021-2024, Shanghai
+  * advisor: [Xuanjing Huang](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en) and [Tao Gui](https://guitaowufeng.github.io/), and co-advisor [Qi Zhang](http://qizhang.info/)
+
+## Experience
+
+* 2023.8 - present: Research Internship
+  * ByteDance AI Lab, Responsible AI team
+  * Supervisor: [Liu Yang](http://www.yliuu.com/), Xiaoying Zhang
+ 
+* 2021.9 - 2022.3: Research Internship
+  * Fudan CISL Lab
+  * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
+      
+
 
 ## Projects
 <img src="../images/moss_logo.png" width="200">
