@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Welcome to my academic page! I am excited to share my journey and research endeavors in the field of artificial intelligence.
+Welcome to my academic page! I'am Eric, My Chinese name is Wei Shen (沈蔚), I am excited to share my journey and research endeavors in the field of artificial intelligence.
 
 I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. Currently, I am a third-year graduate student at Fudan University, working in the NLP Lab under the guidance of [Xuanjing Huang](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en) as my advisor, with [Qi Zhang](http://qizhang.info/)  as my co-advisor.
 
