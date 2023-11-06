@@ -13,8 +13,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Huazhong University of Science and Technology, Computer Science and Technology, 2016-2020
-* M.S. in Fudan University, NLP Lab, 2021-2024
+* High School in Changjun high school, 2013-2016, Changsha
+* B.Eng. in Huazhong University of Science and Technology, Computer Science and Technology, 2016-2020, Wuhan
+* M.Eng. in Fudan University, NLP Lab, 2021-2024, Shanghai
   * advisor: [Xuanjing Huang](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en) and [Tao Gui](https://guitaowufeng.github.io/), and co-advisor [Qi Zhang](http://qizhang.info/)
 
 Experience
