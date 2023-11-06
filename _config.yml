@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Beijing-CN"
-title                    : "Wei Shen / (沈蔚)"
+title                    : "Eric Wei Shen / (沈蔚)"
 title_separator          : "-"
-name                     : &name "Wei Shen"
+name                     : &name "Eric Wei Shen"
 # description              : &description "personal description"
 url                      : "https://fakerbaby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
