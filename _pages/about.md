@@ -54,10 +54,12 @@ _**Wei Shen**&#9733;, Rui Zheng&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gu
 
 _Rui Zheng*&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
 
+### Delve into PPO: Implementation Matters for Stable RLHF Training (Instruction Workshop @ NeurIPS 2023 best paper)
+（a.k.a. Secrets of RLHF in Large Language Models Part I: PPO）
+
+_Rui Zheng&#9733;, Shihan Dou&#9733;, Songyang Gao&#9733;, **Wei Shen**, Binghai Wang, Yan Liu, Senjie Jin, Qin Liu, Yuhao, Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Cheng Chang, Zhangyue Yin, Rongxiang, Weng, Wensen Cheng, Yuan Hua, Haoran Huang, Tianxiang Sun, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang_
+
+
 ### LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment (Preprint)
 
 _Shihan Dou&#9733;, Enyu Zhou&#9733;, Yan Liu, Songyang Gao, Jun Zhao, **Wei Shen**, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_
-
-### Delve into PPO: Implementation Matters for Stable RLHF Training (Instruction Workshop @ NeurIPS 2023 best paper)
-
-_Rui Zheng&#9733;, Shihan Dou&#9733;, Songyang Gao&#9733;, **Wei Shen**, Binghai Wang, Yan Liu, Senjie Jin, Qin Liu, Yuhao, Zhou, Limao Xiong, Lu Chen, Zhiheng Xi, Nuo Xu, Wenbin Lai, Minghao Zhu, Cheng Chang, Zhangyue Yin, Rongxiang, Weng, Wensen Cheng, Yuan Hua, Haoran Huang, Tianxiang Sun, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang_
