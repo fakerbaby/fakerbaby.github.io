@@ -56,7 +56,7 @@ _Rui Zheng*&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuha
 
 ### LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment (Preprint)
 
-_Shihan Dou&#9733;, Enyu Zhou&#9733;, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_
+_Shihan Dou&#9733;, Enyu Zhou&#9733;, Yan Liu, Songyang Gao, Jun Zhao, **Wei Shen**, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_
 
 ### Delve into PPO: Implementation Matters for Stable RLHF Training (Instruction Workshop @ NeurIPS 2023 best paper)
 
