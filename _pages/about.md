@@ -37,8 +37,9 @@ My research interests primarily revolve around Natural Language Processing (NLP)
   * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
       
 ## News
-[2024.1.16] Our paper _Improving Generalization of Alignment with Human Preferences through Group Invariant Learning_ has been accepted for spotlight(5%) on ICLR 2024!
-[2023.12.15] Our paper _Delve into PPO: Implementation Matters for Stable RLHF_ has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
+[2024.1.16] Our paper "Improving Generalization of Alignment with Human Preferences through Group Invariant Learning" has been accepted for **spotlight**(5%) on ICLR 2024!
+
+[2023.12.15] Our paper "Delve into PPO: Implementation Matters for Stable RLHF" has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
 
 ## Projects
 <img src="../images/moss_logo.png" width="200">
