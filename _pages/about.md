@@ -37,7 +37,8 @@ My research interests primarily revolve around Natural Language Processing (NLP)
   * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
       
 ## News
-Our paper _Delve into PPO: Implementation Matters for Stable RLHF_ has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
+[2024.1.16] Our paper _Improving Generalization of Alignment with Human Preferences through Group Invariant Learning_ has been accepted for spotlight(5%) on ICLR 2024!
+[2023.12.15] Our paper _Delve into PPO: Implementation Matters for Stable RLHF_ has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
 
 ## Projects
 <img src="../images/moss_logo.png" width="200">
@@ -50,7 +51,7 @@ Our paper _Delve into PPO: Implementation Matters for Stable RLHF_ has won the B
 
 _**Wei Shen**&#9733;, Rui Zheng&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
 
-### Improving Generalization of Alignment with Human Preferences through Group Invariant Learning (Preprint)
+### Improving Generalization of Alignment with Human Preferences through Group Invariant Learning (ICLR 2024 Spotlight)
 
 _Rui Zheng*&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
 
