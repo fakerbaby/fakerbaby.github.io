@@ -48,13 +48,39 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 
 
 ## Publications
+## 2024 ##
+
+
+### Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards (Preprint)
+
+_**Wei Shen**&#9733;, Xiaoying Zhang&#9733;, Yuanshun Yao, Rui Zheng, Hongyi Guo, Yang Liu_
+
+### Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback (Preprint)
+
+_Songyang Gao&#9733;, Qiming Ge&#9733;, **Wei Shen**, Shihan Dou, Junjie Ye, Xiao Wang, Rui Zheng, Yicheng Zou, Zhi Chen, Hang Yan, Qi Zhang, Dahua Lin_
+
+### Overcoming Reward Overoptimization via Adversarial Policy Optimization with Lightweight Uncertainty Estimation (Preprint)
+
+_Xiaoying Zhang&#9733;, Jean-Francois Ton&#9733;, **Wei Shen**, Hongning Wang, Yang Liu_
+
+### Secrets of RLHF in Large Language Models Part II: Reward Modeling ### (Preprint)
+_Binghai Wang&#9733;, Rui Zheng&#9733;, Lu Chen&#9733;, Yan Liu, Shihan Dou, Caishuang Huang, **Wei Shen**, Senjie Jin, Enyu Zhou, Chenyu Shi, Songyang Gao, Nuo Xu, Yuhao Zhou, Xiaoran Fan, Zhiheng Xi, Jun Zhao, Xiao Wang, Tao Ji, Hang Yan, Lixing Shen, Zhan Chen, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang_
+
+### Human-Instruction-Free LLM Self-Alignment with Limited Samples (Preprint)
+
+_Hongyi Guo&#9733;, Yuanshun Yao&#9733;, **Wei Shen**, Jiaheng Wei, Xiaoying Zhang, Zhaoran Wang, Yang Liu_
+
+
+
+## 2023 ##
+
 ### Mitigating Length Bias in Reinforcement Learning from Human Feedback (EMNLP 2023 Findings)
 
 _**Wei Shen**&#9733;, Rui Zheng&#9733;, Wenyu Zhan, Jun Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang_
 
 ### Improving Generalization of Alignment with Human Preferences through Group Invariant Learning (ICLR 2024 Spotlight)
 
-_Rui Zheng*&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
+_Rui Zheng&#9733;, **Wei Shen**&#9733;, Yuan Hua, Wenbin Lai,  Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang_
 
 ### Delve into PPO: Implementation Matters for Stable RLHF Training (Instruction Workshop @ NeurIPS 2023 best paper)
 （a.k.a. Secrets of RLHF in Large Language Models Part I: PPO）
@@ -65,3 +91,5 @@ _Rui Zheng&#9733;, Shihan Dou&#9733;, Songyang Gao&#9733;, **Wei Shen**, Binghai
 ### LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment (Preprint)
 
 _Shihan Dou&#9733;, Enyu Zhou&#9733;, Yan Liu, Songyang Gao, Jun Zhao, **Wei Shen**, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_
+
+
