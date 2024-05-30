@@ -12,12 +12,13 @@ redirect_from:
 
 Welcome to my academic page! I am Eric, My Chinese name is Wei Shen (沈蔚), I am excited to share my journey and research endeavors in the field of artificial intelligence.
 
+[2024.5.22] I am pround anounce that joining Baichuan.Inc as a research scientist!
 I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. Currently, I am a third-year graduate student at Fudan University, working in the NLP Lab under the guidance of [Xuanjing Huang](https://xuanjing-huang.github.io/) as my advisor, with [Qi Zhang](http://qizhang.info/)  as my co-advisor.
 
-I am passionate about leveraging language models to enhance various aspects of AI and contribute to the development of advanced and responsible AI systems. I am also applying for a Ph.D. in Computer Science, starting in the fall of 2024!
+I am passionate about leveraging language models to enhance various aspects of AI and contribute to the development of advanced and responsible AI systems. 
 
 ## Research Interests
-My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling. Additionally, I am eager to explore the realm of LLM agents and contribute to advancements in that area.
+My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling, RL. Additionally, I am eager to explore the realm of LLM agents and contribute to advancements in that area.
 
 ## Education
 * M.Eng. in Fudan University, NLP Lab, 2021-2024, Shanghai
@@ -26,8 +27,10 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 * High School in Changjun High School, 2013-2016, Changsha
 
 ## Experience
-
-* 2023.8 - present: Research Internship
+* 2024.5 - present: Research Scientist
+  * Baichuan Inc, RL team
+       
+* 2023.8 - 2024.4: Research Internship
   * ByteDance AI Lab, Responsible AI team
   * Supervisor: [Liu Yang](http://www.yliuu.com/), Xiaoying Zhang
   * Content: RLHF with imperfect reward model
@@ -37,6 +40,8 @@ My research interests primarily revolve around Natural Language Processing (NLP)
   * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
       
 ## News
+[]
+
 [2024.1.16] Our paper "Improving Generalization of Alignment with Human Preferences through Group Invariant Learning" has been accepted for **spotlight**(5%) on ICLR 2024!
 
 [2023.12.15] Our paper "Delve into PPO: Implementation Matters for Stable RLHF" has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
@@ -55,7 +60,7 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 
 _**Wei Shen**&#9733;, Xiaoying Zhang&#9733;, Yuanshun Yao, Rui Zheng, Hongyi Guo, Yang Liu_
 
-### Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback (Preprint)
+### Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback (ICML 2024)
 
 _Songyang Gao&#9733;, Qiming Ge&#9733;, **Wei Shen**, Shihan Dou, Junjie Ye, Xiao Wang, Rui Zheng, Yicheng Zou, Zhi Chen, Hang Yan, Qi Zhang, Dahua Lin_
 
