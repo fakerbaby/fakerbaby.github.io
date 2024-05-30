@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Welcome to my academic page! My Chinese name is Wei Shen (沈蔚), I am excited to share my journey and research endeavors in the field of artificial intelligence. Now I am a research scientist in Baichuan Inc. with special focus on improving the cabability of Baichuan-series LLMs with [Dong Yan](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lvztRUkAAAAJ).
+Welcome to my academic page! My name is Wei Shen (沈蔚). I am excited to share my journey and research endeavors in the field of artificial intelligence. I am currently a Research Scientist at Baichuan Inc., with a special focus on improving the capabilities of the Baichuan-series LLMs with [Dong Yan](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lvztRUkAAAAJ).
 
 I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. And I competed my master's degree at Fudan University, working in the NLP Lab under the guidance of [Xuanjing Huang](https://xuanjing-huang.github.io/) as my advisor, with [Qi Zhang](http://qizhang.info/)  as my co-advisor.
 
