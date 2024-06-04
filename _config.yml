@@ -9,7 +9,7 @@
 locale                   : "Beijing-CN"
 title                    : "He/him/his"
 title_separator          : "-"
-name                     : &name "Eric Wei Shen"
+name                     : &name "Wei Shen"
 # description              : &description "personal description"
 url                      : "https://fakerbaby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Wei Shen"
+  name             : "Wei Shen"
   avatar           : "IMG_1596.jpg"
-  bio              : "Fudan University Graduate student"
-  location         : "Shanghai"
-  employer         : 
+  bio              : "He/Him/His"
+  location         : "Beijing"
+  employer         : "Baichuan"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-DlGT8IAAAAJ&hl=en"
   email            : "wshen21@m.fudan.edu.cn"
