@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f7fc101f-f5ec-4853-8cb9-a5b1f6661687)---
 permalink: /
 title: "\"In the middle of difficulty lies opportunity.\" _--Albert Einstein_"
 excerpt: "About me"
@@ -10,14 +10,14 @@ redirect_from:
 
 ## About me
 
-Welcome to my academic page! My name is Wei Shen (沈蔚). I am excited to share my journey and research endeavors in the field of artificial intelligence. I am currently a Research Scientist at Baichuan Inc., with a special focus on improving the capabilities of the Baichuan-series LLMs with [Dong Yan](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lvztRUkAAAAJ).
+Welcome to my academic page! My name is Wei Shen (沈蔚). I am excited to share my journey and research endeavors in the field of artificial intelligence. I am currently a Research Scientist at Skywork AI. Currently. I foucs on RL and Multimodal Agent. Before that I stayed in Baichuan Inc., with a special focus on improving the reasoning capabilities of the Baichuan-series LLMs with [Dong Yan](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lvztRUkAAAAJ).
 
-I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. And I competed my master's degree at Fudan University, working in the NLP Lab under the guidance of [Xuanjing Huang](https://xuanjing-huang.github.io/) as my advisor, with [Qi Zhang](http://qizhang.info/)  as my co-advisor.
+I completed my bachelor's degree at Huazhong University of Science and Technology (HUST) in 2020. And I competed my master's degree at Fudan University, working in the NLP Lab under the guidance of [Xuanjing Huang](https://xuanjing-huang.github.io/) as my advisor, with [Tao Gui](https://scholar.google.com/citations?user=BrOLQdwAAAAJ&hl=zh-CN)  as my co-advisor.
 
 I am passionate about leveraging language models to enhance various aspects of AI and contribute to the development of advanced and responsible AI systems. 
 
 ## Research Interests
-My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling, RL. Additionally, I am eager to explore the realm of LLM agents and contribute to advancements in that area.
+My research interests primarily revolve around Natural Language Processing (NLP), with a specific focus on LLM alignment, including reward modeling, RL. Additionally, I am eager to explore the realm of VLM agents and contribute to advancements in that area.
 
 ## Education
 * M.Eng. in Fudan University, NLP Lab, 2021-2024, Shanghai
@@ -26,7 +26,10 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 * High School in Changjun High School, 2013-2016, Changsha
 
 ## Experience
-* 2024.5 - present: Research Scientist
+* 2025.4 - Present: Research Sientist
+  * Skywork AI
+
+* 2024.5 - 2025.3: Research Scientist
   * Baichuan Inc, RL team
   * Leader: [Dong Yan](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=lvztRUkAAAAJ)
        
@@ -39,6 +42,8 @@ My research interests primarily revolve around Natural Language Processing (NLP)
   * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
       
 ## News
+[2025.3.28] I'm happy to join Skywork AI, Kunlun Inc. as a Research Sceinteis.
+
 [2024.5.22] I am proud to announce my joining Baichuan Inc. as a Research Scientist!
 
 [2024.1.16] Our paper "Improving Generalization of Alignment with Human Preferences through Group Invariant Learning" has been accepted for **spotlight**(5%) on ICLR 2024!
@@ -46,12 +51,20 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 [2023.12.15] Our paper "Delve into PPO: Implementation Matters for Stable RLHF" has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
 
 ## Projects
-<img src="../images/moss_logo.png" width="200">
+<img src="../images/skywork-logo.png" width="200">
+[Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
+[Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1)
 
+<img src="../images/moss_logo.png" width="200">
 [MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/) (An open-source RLHF project aims to help LLMs to achieve alignment easily)
 
-
 ## Publications
+## 2025 ##
+**Skywork-R1V3 Technical Report** [core contributor]
+
+**Skywork Open Reasoner 1 Technical Report**
+
+
 ## 2024 ##
 
 **Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback (ICML 2024)**
