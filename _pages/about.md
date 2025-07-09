@@ -42,7 +42,7 @@ My research interests primarily revolve around Natural Language Processing (NLP)
   * Supervisor: [Shang Li](https://scholar.google.com/citations?user=AnBUn0QAAAAJ&hl=en)
       
 ## News
-[2025.3.28] I'm happy to join Skywork AI, Kunlun Inc. as a Research Sceinteis.
+[2025.3.28] I'm happy to join Skywork AI, Kunlun Inc.
 
 [2024.5.22] I am proud to announce my joining Baichuan Inc. as a Research Scientist!
 
@@ -51,9 +51,10 @@ My research interests primarily revolve around Natural Language Processing (NLP)
 [2023.12.15] Our paper "Delve into PPO: Implementation Matters for Stable RLHF" has won the Best Paper on Instruction Workshop @ NeurIPS 2023!
 
 ## Projects
-<img src="../images/skywork-logo.png" width="200">
+<img src="../images/skywork_logo.png" width="200">
 [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
 [Skywork-OR1](https://github.com/SkyworkAI/Skywork-OR1)
+
 
 <img src="../images/moss_logo.png" width="200">
 [MOSS-RLHF](https://openlmlab.github.io/MOSS-RLHF/) (An open-source RLHF project aims to help LLMs to achieve alignment easily)
