@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f7fc101f-f5ec-4853-8cb9-a5b1f6661687)---
 permalink: /
 title: "\"In the middle of difficulty lies opportunity.\" _--Albert Einstein_"
 excerpt: "About me"
