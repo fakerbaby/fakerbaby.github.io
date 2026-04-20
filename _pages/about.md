@@ -2,7 +2,8 @@
 permalink: /
 title:
 excerpt: "Senior ML Research Scientist focused on frontier reasoning models, RL post-training, and multimodal agents."
-author_profile: true
+layout: home
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -10,55 +11,84 @@ redirect_from:
 
 <div class="home-profile">
   <section class="profile-hero">
-    <p class="section-kicker">Senior ML Research Scientist · Skywork AI · Beijing, China</p>
-    <h1 class="profile-hero__title">Wei Shen</h1>
-    <p class="profile-summary">
-      I build frontier reasoning systems, scalable RL post-training pipelines, and production multimodal agents.
-      My work focuses on long-horizon agentic reinforcement learning, reward modeling, anti-reward-gaming,
-      curriculum learning, and reliable multimodal reasoning.
-    </p>
-    <p class="profile-note">This homepage reflects the latest resume updated on April 20, 2026.</p>
-    <div class="profile-links">
-      <a class="profile-link profile-link--primary" href="/cv/">View CV</a>
-      <a class="profile-link" href="https://scholar.google.com/citations?user=-DlGT8IAAAAJ&hl=en">Google Scholar</a>
-      <a class="profile-link" href="https://github.com/fakerbaby">GitHub</a>
-      <a class="profile-link" href="mailto:weyshioncn@gmail.com">Email</a>
+    <div class="profile-hero__grid">
+      <div class="profile-hero__content">
+        <p class="section-kicker">Post-training · Reasoning · Multimodal Agents</p>
+        <h1 class="profile-hero__title">Wei Shen</h1>
+        <p class="profile-hero__name-alt">沈蔚</p>
+        <p class="profile-hero__subtitle">Senior ML Research Scientist at Skywork AI, working on post-training, reasoning systems, and multimodal agents for frontier foundation models.</p>
+        <p class="profile-hero__affiliation">Skywork AI · ex-Baichuan · ex-ByteDance Seed / AI Lab · Fudan NLP · Beijing</p>
+        <div class="profile-topics" aria-label="Research themes">
+          <span class="profile-topic">Reasoning Models</span>
+          <span class="profile-topic">RLHF</span>
+          <span class="profile-topic">Multimodal Agents</span>
+        </div>
+        <p class="profile-summary">
+          My work spans RLHF, reward modeling, long-horizon agentic reinforcement learning, and multimodal reasoning,
+          with experience across leading industry labs, strong academic recognition, and open-source impact.
+        </p>
+        <div class="profile-links">
+          <a class="profile-link profile-link--primary" href="/cv/">View CV</a>
+          <a class="profile-link" href="https://scholar.google.com/citations?user=-DlGT8IAAAAJ&hl=en">Google Scholar</a>
+          <a class="profile-link" href="https://github.com/fakerbaby">GitHub</a>
+          <a class="profile-link" href="mailto:weyshioncn@gmail.com">Email</a>
+        </div>
+      </div>
+
+      <aside class="profile-hero__sidebar" aria-label="Profile snapshot">
+        <div class="hero-sidebar-card">
+          <div class="hero-portrait">
+            <img src="{{ '/images/IMG_3804.jpg' | relative_url }}" alt="Wei Shen portrait">
+          </div>
+          <p class="hero-sidebar__role">Skywork AI</p>
+          <p class="hero-sidebar__meta">Beijing · RLHF · Reasoning</p>
+        </div>
+      </aside>
+    </div>
+
+    <div class="hero-signal">
+      <div class="hero-signal__item">
+        <span class="hero-signal__label">Recognition</span>
+        <strong>NeurIPS Best Paper, ICLR Spotlight, and widely cited RLHF research</strong>
+      </div>
+      <div class="hero-signal__item">
+        <span class="hero-signal__label">Selected impact</span>
+        <strong>Core contributor or lead across reasoning, post-training, and multimodal open releases</strong>
+      </div>
     </div>
   </section>
 
   <section class="profile-stats">
     <article class="stat-card">
-      <span class="stat-card__value">1,900+</span>
+      <span class="stat-card__value">{{ site.data.scholar_metrics.citations | default: "1900+" }}</span>
       <span class="stat-card__label">Google Scholar citations</span>
     </article>
     <article class="stat-card">
-      <span class="stat-card__value">20</span>
+      <span class="stat-card__value">{{ site.data.scholar_metrics.h_index | default: "20" }}</span>
       <span class="stat-card__label">h-index</span>
     </article>
     <article class="stat-card">
-      <span class="stat-card__value">76.0</span>
-      <span class="stat-card__label">MMMU on Skywork-R1V3-38B</span>
+      <span class="stat-card__value">3</span>
+      <span class="stat-card__label">leading AI teams across research and industry</span>
     </article>
     <article class="stat-card">
-      <span class="stat-card__value">3.2k</span>
-      <span class="stat-card__label">GitHub stars on Skywork-R1V3</span>
+      <span class="stat-card__value">2</span>
+      <span class="stat-card__label">major distinctions: NeurIPS Best Paper and ICLR Spotlight</span>
     </article>
   </section>
 
   <section class="profile-section profile-section--split">
     <div class="panel-card narrative-card">
-      <p class="section-kicker">About</p>
+      <p class="section-kicker">Research Profile</p>
       <p>
-        Welcome to my academic homepage. I am a Senior ML Research Scientist at Skywork AI, where I work on
-        frontier reasoning systems, scalable RL post-training, and multimodal agents. Before joining Skywork,
-        I worked at Baichuan on post-training and reasoning for the Baichuan series, and at ByteDance AI Lab on
-        robust RLHF and reward design.
+        I work on post-training for frontier foundation models, with a focus on reasoning systems, RLHF, and multimodal agents.
+        Most of my recent work sits at the boundary between research ideas and production-facing model development:
+        reward design, scalable reinforcement learning, curriculum construction, and evaluation for reliable reasoning behavior.
       </p>
       <p>
-        I completed my M.S. in Computer Science at Fudan University in the NLP Lab, advised by
-        <a href="https://xuanjing-huang.github.io/">Prof. Xuanjing Huang</a>,
-        Prof. Xipeng Qiu, and Prof. Tao Gui, after receiving my B.S. from Huazhong University of Science and Technology.
-        My research centers on alignment, reward modeling, reinforcement learning, and multimodal reasoning.
+        I am especially interested in training pipelines that remain robust under noisy, sparse, or gameable feedback,
+        and in systems that transfer across general reasoning, coding, and multimodal tasks.
+        The goal is not only stronger benchmarks, but models that are harder to exploit and more dependable in real use.
       </p>
     </div>
 
@@ -75,7 +105,7 @@ redirect_from:
   </section>
 
   <section class="profile-section">
-    <p class="section-kicker">Background</p>
+    <p class="section-kicker">Career Path</p>
     <div class="background-grid">
       <article class="background-card">
         <p class="background-card__meta">Skywork AI · 2025–Present</p>
@@ -85,30 +115,29 @@ redirect_from:
       <article class="background-card">
         <p class="background-card__meta">Baichuan Inc. · 2024–2025</p>
         <h2>Research Scientist</h2>
-        <p>Worked on reasoning-oriented post-training, medical reasoning, coding RL, and reward modeling for the Baichuan family.</p>
+        <p>Worked in the RL team led by <a href="https://scholar.google.com/citations?user=lvztRUkAAAAJ&hl=en">Dong Yan</a> on reasoning-oriented post-training, medical reasoning, coding RL, and reward modeling for the Baichuan family.</p>
       </article>
       <article class="background-card">
-        <p class="background-card__meta">ByteDance AI Lab · 2023–2024</p>
+        <p class="background-card__meta">ByteDance Seed / AI Lab · 2023–2024</p>
         <h2>Research Intern</h2>
-        <p>Studied robust RLHF, noisy-reward dynamics, and PPO variants for more stable and generalizable alignment.</p>
+        <p>Worked with <a href="http://www.yliuu.com/">Yang Liu</a> and <a href="https://hangli-hl.github.io/">Hang Li</a> on robust RLHF, noisy-reward dynamics, and PPO variants for more stable and generalizable alignment.</p>
       </article>
       <article class="background-card">
-        <p class="background-card__meta">Fudan CISL Lab · 2021</p>
-        <h2>Early Research Experience</h2>
-        <p>Applied graph neural networks and reinforcement learning to routing and placement optimization in EDA workflows.</p>
+        <p class="background-card__meta">Fudan NLP Lab · 2021–2024</p>
+        <h2>Early Research Training</h2>
+        <p>Started formal research training in the Fudan NLP community, building the foundation for later work on language understanding, alignment, and reasoning systems.</p>
       </article>
     </div>
   </section>
 
   <section class="profile-section profile-section--split">
     <div class="panel-card">
-      <p class="section-kicker">Recent News</p>
+      <p class="section-kicker">Selected Impact</p>
       <ul class="news-list">
-        <li><strong>Jul 2025:</strong> Contributed to the release of Skywork-R1V3 and its technical report.</li>
-        <li><strong>Mar 2025:</strong> Joined Skywork AI as a Senior ML Research Scientist.</li>
-        <li><strong>May 2024:</strong> Joined Baichuan as a Research Scientist working on RL and reasoning.</li>
-        <li><strong>Jan 2024:</strong> Group Invariant Learning was accepted as an ICLR 2024 Spotlight paper.</li>
-        <li><strong>Dec 2023:</strong> PPO work received the Best Paper award at the NeurIPS 2023 Instruction Workshop.</li>
+        <li>Led or contributed to major reasoning and multimodal releases including Skywork-R1V3, Skywork-OR1, and MOSS-RLHF.</li>
+        <li>Published award- and spotlight-level work on RLHF, alignment, and post-training.</li>
+        <li>Built end-to-end experience from reward design and evaluation to training pipelines and public releases.</li>
+        <li>Collaborated across top industry labs and Fudan NLP on alignment, reasoning, and multimodal learning.</li>
       </ul>
     </div>
 
@@ -152,49 +181,18 @@ redirect_from:
     </div>
   </section>
 
-  <section class="profile-section profile-section--split">
-    <div class="panel-card">
-      <p class="section-kicker">Selected Publications</p>
-      <div class="publication-list">
-        <article class="publication-entry">
-          <h2>Skywork-R1V3 Technical Report</h2>
-          <p>Technical report, July 2025 · Lead contributor</p>
-        </article>
-        <article class="publication-entry">
-          <h2>Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards</h2>
-          <p>arXiv preprint, January 2024 · Co-first author</p>
-        </article>
-        <article class="publication-entry">
-          <h2><a href="https://arxiv.org/abs/2310.05199">Loose Lips Sink Ships: Mitigating Length Bias in RLHF</a></h2>
-          <p>EMNLP 2024</p>
-        </article>
-        <article class="publication-entry">
-          <h2><a href="https://arxiv.org/abs/2310.11971">Improving Generalization of Alignment with Human Preferences through Group Invariant Learning</a></h2>
-          <p>ICLR 2024 Spotlight</p>
-        </article>
-        <article class="publication-entry">
-          <h2><a href="https://arxiv.org/abs/2307.04964">Secrets of RLHF in Large Language Models Part I: PPO</a></h2>
-          <p>Best Paper, NeurIPS 2023 Instruction Workshop</p>
-        </article>
-      </div>
-      <p class="profile-inline-link"><a href="/publications/">Browse selected publications</a></p>
-    </div>
-
+  <section class="profile-section">
     <div class="panel-card">
       <p class="section-kicker">Education and Highlights</p>
       <div class="compact-list">
         <div class="compact-list__item">
           <h2>Fudan University</h2>
           <p>M.S. in Computer Science, September 2021 – January 2024</p>
-          <p>Fudan NLP Lab. Advisors: Prof. Xuanjing Huang, Prof. Xipeng Qiu, and Prof. Tao Gui.</p>
+          <p>Fudan NLP Lab. Advisors: <a href="https://xuanjing-huang.github.io/">Prof. Xuanjing Huang</a>, <a href="https://xpqiu.github.io/en.html">Prof. Xipeng Qiu</a>, and <a href="https://guitaowufeng.github.io/">Prof. Tao Gui</a>.</p>
         </div>
         <div class="compact-list__item">
           <h2>Huazhong University of Science and Technology</h2>
           <p>B.S. in Computer Science, September 2016 – May 2020</p>
-        </div>
-        <div class="compact-list__item">
-          <h2>Changjun High School</h2>
-          <p>High School, 2013 – 2016, Changsha</p>
         </div>
         <div class="compact-list__item">
           <h2>Recognition</h2>
