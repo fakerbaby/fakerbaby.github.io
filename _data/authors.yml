@@ -1,18 +1,11 @@
 # Authors
 
-Name Name:
-  name        : "Wei Shen"
-  uri         : "https://github.com/fakerbaby"
-  email       : "weishioncn@gmail.com"
-  bio         : "He/Him/His"
-  avatar      : "IMG_1596.jpg"
-  twitter     : "Wei Shen"
-  google_plus : "Wei Shen"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+wei-shen:
+  name         : "Wei Shen"
+  uri          : "https://fakerbaby.github.io/"
+  email        : "weyshioncn@gmail.com"
+  bio          : "Senior ML Research Scientist focused on reasoning models, RL post-training, and multimodal agents."
+  avatar       : "IMG_1596.jpg"
+  github       : "fakerbaby"
+  twitter      : "Monometum"
+  googlescholar: "https://scholar.google.com/citations?user=-DlGT8IAAAAJ&hl=en"
